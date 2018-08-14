@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://m2paulc.github.io/Robotfriend_react_app",
+  "homepage": "https://m2paulc.github.io/Robotfriend_react_app",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",

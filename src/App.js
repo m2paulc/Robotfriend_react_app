@@ -28,7 +28,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
         </header>
-        <h1 className='f1'>RoboFriends</h1>
+        <h1 className='f1'>RobotFriends</h1>
         <SearchBox searchChange={this.onSearchChange}/>
         <CardList robots={filteredRobots}/>
       </div>
